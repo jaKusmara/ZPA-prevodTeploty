@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">ZPA-prevodTeploty</string>
+    <string name="et_celsius">Zadaj °C</string>
+    <string name="et_fahrendheit">Zadaj °F</string>
+    <string name="et_km">Zadaj KM</string>
+    <string name="et_mi">Zadaj MI</string>
+    <string name="rb_CF">°C -> °F</string>
+    <string name="rb_FC">°F -> °C</string>
+    <string name="rb_kmmi">KM -> MI</string>
+    <string name="rb_mikm">MI -> KM</string>
+    <string name="tv_cels">°C</string>
+    <string name="tv_farent">°F</string>
+    <string name="tv_km">KM</string>
+    <string name="tv_mile">MI</string>
+    <string name="tv_vzdialenost">Vzdialenost</string>
+    <string name="tv_teplota">Teplota</string>
+    <string name="btn_prevod">Prevod!</string>
 </resources>
